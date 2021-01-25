@@ -1,4 +1,4 @@
-package q.contact.builderpattern_1
+package q.contact.builderpattern_1.example1
 
 
 class LapTop(builder : Builder) {
